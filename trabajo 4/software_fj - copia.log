@@ -1,0 +1,6 @@
+2026-05-12 21:17:37,891 - INFO - Reserva SIM OK | Juan Perez | Total: $400.00
+2026-05-12 21:17:37,891 - ERROR - Error en Reserva SIM: La duración debe ser mayor a cero.
+2026-05-12 21:17:37,891 - INFO - Reserva SIM OK | Luis Ruiz | Total: $450.00
+2026-05-12 21:17:37,891 - ERROR - Error en Reserva SIM: La duración debe ser mayor a cero.
+2026-05-12 21:17:37,891 - INFO - Reserva SIM OK | Ana Gomez | Total: $160.00
+2026-05-12 21:17:37,892 - INFO - Reserva SIM OK | Ana Gomez | Total: $150.00
